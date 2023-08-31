@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'ralewaythin';
+    src: url('raleway.woff2') format('woff2'),
+         url('raleway.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+
+*{    
+    font-family: 'ralewaythin', sans-serif !important;
+}
+
+.result{
+    margin: o auto;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
